@@ -24,7 +24,7 @@
 ## 📋 Steps
 - [x] Create Kubernetes cluster on GCP
 - [x] Configure GCP console with following commands
-      ``` bash
+      ```
       export PROJECT_ID=PROJECT_ID
       gcloud config set project PROJECT_ID
       ```
