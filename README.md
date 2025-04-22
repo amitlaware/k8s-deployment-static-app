@@ -18,7 +18,7 @@
 
 ---
 ## Prerequistes
-  -Create Docker file for your static app in your project folder
+  .Create Docker file for your static app in your project folder
 ---
 
 ## 📋 Steps
