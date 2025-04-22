@@ -44,7 +44,7 @@
 - [x] Configures Docker to authenticate with Google Artifact Registry
 ```gcloud auth configure-docker asia-central1-docker.pkg.dev```
 
-- [x] This command tags the local Docker image with a new name so it can be pushed to Google Container Registry (GCR) under the project <PROJECT_ID> with the repository name static-app.
+- [x] This command tags the local Docker image with a new name so it can be pushed to Google Container Registry (GCR) under the project with the repository name.
 ```docker tag static-app:v1 gcr.io/<PROJECT_ID>/static-app```
 
 - [x] Push the Docker Image to Google Container Registry.
