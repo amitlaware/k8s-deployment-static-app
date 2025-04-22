@@ -24,8 +24,9 @@
 ## 📋 Steps
 - [x] Create Kubernetes cluster on GCP
 - [x] Configure GCP console with following commands
-```export PROJECT_ID=PROJECT_ID```
-```gcloud config set project PROJECT_ID```
+      ``` bash
+      export PROJECT_ID=PROJECT_ID
+      gcloud config set project PROJECT_ID
 - [x] Clone github repository of static app to GCP console
 ```git clone <GITHUB_REPO_LINK>```
 ```cd <REPO_NAME```
